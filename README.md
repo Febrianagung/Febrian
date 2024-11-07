@@ -1,5 +1,4 @@
-# Repo Agung
-# 🔥 Latihan atau apapun itu 🔥
+## 🔥 Latihan atau apapun itu 🔥
 
 **Welcome to the Playground!**  
 Repository ini dibuat khusus untuk berbagai latihan, eksperimen, atau bahkan eksplorasi ide-ide dalam pemrograman. Di sini, tidak ada batasan — hanya ruang bebas untuk mengasah skill, menguji konsep baru, atau sekadar mencoba sesuatu yang seru!
