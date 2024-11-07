@@ -17,8 +17,4 @@ Repository ini dibuat khusus untuk berbagai latihan, eksperimen, atau bahkan eks
 
 ## 🚀 Yuk Mulai!
 
-Cukup clone repo ini dan mulai eksplorasi kode yang ada, atau tambahkan eksperimenmu sendiri. Selamat berkoding ria!
-
----
-
-Semoga README ini sesuai dengan yang kamu cari!
+Cukup clone repo ini atuh dan mulai eksplorasi kode yang ada, atau tambahkan eksperimen kamu sendiri. Selamat berkoding ria!
