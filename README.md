@@ -1,2 +1,2 @@
-# Febrian
-Repository buat latihan atau apapun itu
+# Repo Agung
+Repository bebas buat latihan atau nyimpen file apapun itu 😁
